@@ -16,7 +16,12 @@
         "CPA",
         "CPAv2.1",
         "CPA version 2.1",
-        "European Union"
+        "European Union",
+        "MiBo",
+        "Library",
+        "Lib",
+        "Package",
+        "Money"
     ],
     "authors": [
         {
@@ -36,7 +41,7 @@
         }
     },
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "mibo/taxonomy": "^1.0"
     },
     "require-dev": {
